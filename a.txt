@@ -1,2 +1,7 @@
 file a
+
 user b chinh sua
+
+user a chinh sua
+
+123456789
