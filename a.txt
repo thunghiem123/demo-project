@@ -2,6 +2,12 @@ file a
 
 user b chinh sua
 
+
 user a chinh sua
 
 123456789
+Trieu add for commit lan 2
+
+Trieu added.
+
+Trieu add for commit lan 1
