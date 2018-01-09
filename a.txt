@@ -7,3 +7,5 @@ user a chinh sua
 123456789
 
 Trieu added.
+
+Trieu add for commit lan 1
